@@ -1,3 +1,3 @@
 # Página de login portal captive da rede giga metropóle
 
-<a href="http://portal.imd.ufrn.br/projetos/">Conheça o projeto</a>
+<a href="https://www.imd.ufrn.br/portal/rede-giga">Conheça o projeto</a>
